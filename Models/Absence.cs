@@ -30,7 +30,7 @@ namespace MiniProjet_Core.Model
         public Salle salle { get; set; }
 
         [ForeignKey("IdStudent")]
-        public Student student { get; set; }
+        public Etudiant student { get; set; }
 
     }
 }

@@ -32,7 +32,7 @@ namespace MiniProjet_Core.Model
 
 
         [ForeignKey("IdSubject")]
-        public Subject Subject { get; set; }
+        public Sujet Subject { get; set; }
 
         [ForeignKey("NumSalle")]
         public Salle Salle { get; set; }
