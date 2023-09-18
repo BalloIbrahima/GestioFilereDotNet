@@ -1,0 +1,51 @@
+﻿@page
+@model MyApp.Namespace.EditSeanceModel
+@{
+}
+<div class="nav-scroller bg-white box-shadow">
+      <nav class="nav nav-underline">
+        <a class="nav-link active" href="/Seance/AddSeance">Seance</a>
+      </nav>
+</div>
+  
+  <div class="container">
+    <div class="row">
+      <div class="col-6 col-md-4">
+          <form method="post">
+          <input type="hidden" asp-for="seance.IdSeance"/>
+
+           <label asp-for="seance.SeanceTitle"  class="control-label"></label><br/>
+            <input asp-for="seance.SeanceTitle" class="form-control"/>
+            <span asp-validation-for="seance.SeanceTitle" class="text-danger"></span><br/><br/>
+
+             <label asp-for="seance.DateSeance"  class="control-label"></label><br/>
+             <input asp-for="seance.DateSeance" class="form-control"/>
+             <span asp-validation-for="seance.DateSeance" class="text-danger"></span>
+
+             <select asp-for="seance.NumeroDandLejour" class="custom-select">
+                    <option value="08">8:00 -- 10:00</option>
+                    <option value="10">10:00 -- 12:00</option>
+                    <option value="14">14:00 -- 16:00</option>
+                    <option value="16">16:00 -- 18:00</option>
+             </select><br/>
+
+            <select asp-for="seance.IdSubject" class="custom-select">
+               @foreach (var sub in Model.subjects)
+                {
+                      <option value="@sub.IdSubject">@sub.NomSubject</option>
+                }
+             </select><br/>
+
+             <select asp-for="seance.NumSalle" class="custom-select">
+               @foreach (var salle in Model.salles)
+                {
+                      <option value="@salle.NumSalle">@salle.NumSalle</option>
+                }
+             </select><br/>
+  
+          <tr></tr><tr></tr><tr></tr><input class="btn btn-success" type="Submit" value="Enregistrer"/>
+  
+          </form>
+      </div>
+    </div>
+  </div>

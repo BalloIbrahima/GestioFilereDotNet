@@ -16,6 +16,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/owner/Desktop/TechnoLab/DotNet/GestionFilere
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Filiere/AddFiliere.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlsaWVyZS9BZGRGaWxpZXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Filiere/EditFiliere.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlsaWVyZS9FZGl0RmlsaWVyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Filiere/FiliereList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlsaWVyZS9GaWxpZXJlTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -24,12 +36,76 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Professor/EditProf.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZmVzc29yL0VkaXRQcm9mLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Professor/ProfList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZmVzc29yL1Byb2ZMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Professor/Profseance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZmVzc29yL1Byb2ZzZWFuY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Seance/AddSeance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VhbmNlL0FkZFNlYW5jZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Seance/EditSeance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VhbmNlL0VkaXRTZWFuY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Seance/Presence_List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VhbmNlL1ByZXNlbmNlX0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Seance/SeancesList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VhbmNlL1NlYW5jZXNMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Shared copy/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkIGNvcHkvX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Shared copy/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkIGNvcHkvX0xvZ2luUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Shared copy/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkIGNvcHkvX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Student/AddStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudC9BZGRTdHVkZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Student/EditStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudC9FZGl0U3R1ZGVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Student/StudentsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudC9TdHVkZW50c0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Subject/AddSubject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3ViamVjdC9BZGRTdWJqZWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Subject/EditSubject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3ViamVjdC9FZGl0U3ViamVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Subject/SubjectsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3ViamVjdC9TdWJqZWN0c0xpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/_ViewImports.cshtml]

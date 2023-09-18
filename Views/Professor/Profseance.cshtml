@@ -1,0 +1,67 @@
+﻿@page
+@model MyApp.Namespace.ProfseanceModel
+@{
+}
+
+<div class="container p-3 my-3 bg-dark text-white">
+    <h1>Liste des Seances</h1>
+  </div>
+      <p class="card-text"> @User.Identity.Name </p>
+      <p><b>Date :</b> @DateTime.Now.ToShortDateString()</p>
+
+<form method="post">
+      <table class="table">
+        <thead class="thead-dark">
+          <tr>
+            <th scope="col">Titre</th>
+            <th scope="col">Date de seance </th>
+            <th scope="col">Horaire</th>
+            <th scope="col">Matiere</th>
+            <th scope="col">Salle</th>
+            <th scope="col"></th>
+            <th scope="col"></th>
+            <th scope="col"></th>
+          </tr>
+        </thead>
+        <tbody>
+
+          @foreach (var Seance in Model.seancesP){
+          <tr>
+            <td>@Seance.SeanceTitle</td>
+            <td>@Seance.DateSeance</td>
+            @if(Seance.NumeroDandLejour == "08"){
+                <td>8:00 -- 10:00</td>
+              }
+             @if(Seance.NumeroDandLejour == "10"){
+                <td>10:00 -- 12:00</td>
+              }
+               @if(Seance.NumeroDandLejour == "14"){
+                <td>14:00 -- 16:00</td>
+              }
+               @if(Seance.NumeroDandLejour == "16"){
+                <td>16:00 -- 18:00</td>
+              }
+   
+            @{var id =  Seance.IdSubject;}
+            @foreach (var sub in Model.subjects)
+            {
+              @if(sub.IdSubject == id){
+                <td>@sub.NomSubject</td>
+              }
+            }
+            @{var numSa =  Seance.NumSalle; }
+             @foreach (var sa in Model.salles)
+            {
+              @if(sa.NumSalle == numSa){
+                <td>@sa.NumSalle</td>
+              }
+            }
+            <td> 
+            </td>
+                 <td><a asp-page="/Seance/Presence_List" asp-route-id=" @Seance.IdSeance" class="btn btn-success" > Presence</a>  </td>
+          </tr>
+          }
+        </tbody>
+      </table>
+</form>
+</div>

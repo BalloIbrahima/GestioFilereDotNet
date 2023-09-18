@@ -1,0 +1,36 @@
+﻿@page
+@model MyApp.Namespace.EditStudentModel
+@{
+}
+
+<div class="container p-3 my-3 bg-dark text-white"> <br/><br/>
+        <a class="btn btn-primary" href="/Student/StudentsList" role="button">Liste des Etudiants</a>
+  
+  <div class="container">
+    <div class="row">
+      <div class="col-6 col-md-4">
+          <form method="post">
+          <div class="form-group">
+            <input type="hidden" asp-for="student.IdStudent"/>
+             <label asp-for="student.FullName"  class="control-label"></label><br/>
+             <input asp-for="student.FullName" class="form-control"/>
+             <span asp-validation-for="student.FullName" class="text-danger"></span>
+
+             <label asp-for="student.IdFiliere" class="control-label"></label><br/>
+             <select asp-for="student.IdFiliere" class="custom-select">
+               @foreach (var fl in Model.filieres)
+                {
+                    <option value="@fl.IdFiliere">@fl.NomFiliere</option>
+                }
+             </select>
+              <span asp-validation-for="student.IdFiliere" class="text-danger"></span>
+    
+          </div>
+  
+          <tr></tr><tr></tr><tr></tr><input class="btn btn-success" type="Submit" value="Enregistrer"/>
+          <!--<button type="submit" class="btn btn-primary">Submit</button> -->
+  
+          </form>
+      </div>
+    </div>
+  </div>

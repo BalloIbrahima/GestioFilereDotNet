@@ -1,0 +1,55 @@
+﻿@page
+@model MyApp.Namespace.SubjectsListModel
+@{
+}
+
+ 
+<div class="container p-3 my-3 bg-dark text-white">
+    <h1>Liste de Matiéres</h1>
+  </div><br/>
+      <a class="btn btn-primary" href="/Subject/AddSubject" role="button">Ajouter Matiere</a>
+  <br/><br/>
+
+<form method="post">
+      <table class="table">
+        <thead class="thead-dark">
+          <tr>
+            <th scope="col">Num ° ID</th>
+            <th scope="col">Nom de Matiere</th>
+            <th scope="col">Filiere</th>
+            <th scope="col">Professeur</th>
+            <th scope="col"></th>
+            <th scope="col"></th>
+          </tr>
+        </thead>
+        <tbody>
+
+          @foreach (var Subject in Model.subjects){
+          <tr>
+            <th>@Subject.IdSubject</th>
+            <td>@Subject.NomSubject</td>
+            @{var id =  Subject.IdFiliere;}
+            @foreach (var fl in Model.filieres)
+            {
+              @if(fl.IdFiliere == id){
+                <td>@fl.NomFiliere</td>
+              }
+            }
+            @{var idprof =  Subject.IdProf; }
+             @foreach (var prof in Model.utilisateurs)
+            {
+              @if(prof.Id == idprof){
+                <td>@prof.Nom <i>@prof.Prenom</i></td>
+              }
+            }
+            <td> 
+              <button type="submit" class="btn btn-danger" onclick="return confirm('Are you sure that u want to delete the Subject ?')"
+              asp-page-handler="delete" asp-route-id="@Subject.IdSubject" > Delete </button>
+            </td>
+                <td><a asp-page="./EditSubject" asp-route-id="@Subject.IdSubject" class="btn btn-dark" > EDIT</a>  </td>
+          </tr>
+          }
+        </tbody>
+      </table>
+</form>
+</div>

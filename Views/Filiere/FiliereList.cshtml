@@ -1,0 +1,41 @@
+﻿@page 
+@model MyApp.Namespace.FiliereListModel
+@{
+}
+<div class="nav-scroller bg-white box-shadow">
+      <nav class="nav nav-underline">
+        <a class="nav-link active" href="/Filiere/AddFiliere">Filiere</a>
+        <a class="nav-link" href="/Filiere/FiliereList">List</a>
+      </nav>
+</div>
+
+<form method="post">
+      <table class="table">
+        <thead class="thead-dark">
+          <tr>
+            <th scope="col">ID de Filiere</th>
+            <th scope="col">Nom de Filiere</th>
+            <th scope="col">nombre des Etudiants</th>
+            <th scope="col"></th>
+            <th scope="col"></th>
+          </tr>
+        </thead>
+        <tbody>
+
+          @foreach (var filiere in Model.filieres){
+          <tr>
+            <td>@filiere.IdFiliere</td>
+            <td>@filiere.NomFiliere</td>
+            <td>@filiere.StudentsNumbre</td>
+            
+            <td> 
+              <button type="submit" class="btn btn-danger" onclick="return confirm('Are you sure that u want to delete the element')"
+              asp-page-handler="delete" asp-route-id="@filiere.IdFiliere" > Delete </button>
+            </td>
+                <td><a asp-page="./EditFiliere" asp-route-id="@filiere.IdFiliere" class="btn btn-primary" > EDIT</a>  </td>
+          </tr>
+          }
+        </tbody>
+      </table>
+</form>
+</div>

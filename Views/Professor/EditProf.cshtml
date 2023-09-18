@@ -1,0 +1,40 @@
+﻿@page
+@model MyApp.Namespace.EditProfModel
+@{
+}
+
+<div class="container p-3 my-3 bg-dark text-white"> <br/><br/>
+        <a class="btn btn-primary" href="/Student/StudentsList" role="button">Professors List</a>
+  
+  <div class="container">
+    <div class="row">
+      <div class="col-6 col-md-4">
+          <form method="post">
+          <div class="form-group">
+            <input type="hidden" asp-for="professor.Id"/>
+             <label asp-for="professor.Nom"  class="control-label"></label><br/>
+             <input asp-for="professor.Nom" class="form-control"/>
+             <span asp-validation-for="professor.Nom" class="text-danger"></span>
+
+               <label asp-for="professor.Prenom"  class="control-label"></label><br/>
+             <input asp-for="professor.Prenom" class="form-control"/>
+             <span asp-validation-for="professor.Prenom" class="text-danger"></span>
+
+               <label asp-for="professor.CIN"  class="control-label"></label><br/>
+             <input asp-for="professor.CIN" class="form-control"/>
+             <span asp-validation-for="professor.CIN" class="text-danger"></span>
+
+               <label asp-for="professor.Email"  class="control-label"></label><br/>
+             <input asp-for="professor.Email" class="form-control"/>
+             <span asp-validation-for="professor.Email" class="text-danger"></span>
+
+    
+          </div>
+  
+          <tr></tr><tr></tr><tr></tr><input class="btn btn-success" type="Submit" value="Enregistrer"/>
+          <!--<button type="submit" class="btn btn-primary">Submit</button> -->
+  
+          </form>
+      </div>
+    </div>
+  </div>

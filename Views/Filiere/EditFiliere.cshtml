@@ -1,0 +1,33 @@
+﻿@page
+@model MyApp.Namespace.EditFiliereModel
+@{
+}
+<div class="nav-scroller bg-white box-shadow">
+      <nav class="nav nav-underline">
+        <a class="nav-link active" href="/Filiere/AddFiliere">Filiere</a>
+      </nav>
+</div>
+  
+  <div class="container">
+    <div class="row">
+      <div class="col-6 col-md-4">
+          <form method="post">
+          <div class="form-group">
+              <input type="hidden" asp-for="filiere.IdFiliere">
+             <label asp-for="filiere.NomFiliere" class="control-label"></label><br/>
+             <input asp-for="filiere.NomFiliere" class="form-control"/>
+             <span asp-validation-for="filiere.NomFiliere" class="text-danger"></span>
+
+             <label asp-for="filiere.StudentsNumbre"  class="control-label"></label><br/>
+             <input asp-for="filiere.StudentsNumbre" class="form-control"/>
+             <span asp-validation-for="filiere.StudentsNumbre" class="text-danger"></span>
+    
+          </div>
+  
+          <tr></tr><tr></tr><tr></tr><input class="btn btn-success" type="Submit" value="Enregistrer"/>
+          <!--<button type="submit" class="btn btn-primary">Submit</button> -->
+  
+          </form>
+      </div>
+    </div>
+  </div>

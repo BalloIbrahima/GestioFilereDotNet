@@ -1,0 +1,71 @@
+﻿@page
+@model MyApp.Namespace.SeancesListModel
+@{
+}
+
+<div class="container p-3 my-3 bg-dark text-white">
+    <h1>Liste des Seances</h1>
+  </div><br/>
+      <a class="btn btn-primary" href="/Seance/AddSeance" role="button">Ajouter Seance</a><br/>
+      <p>@DateTime.Now.ToShortDateString()</p>
+  <br/><br/>
+
+<form method="post">
+      <table class="table">
+        <thead class="thead-dark">
+          <tr>
+            <th scope="col">Titre</th>
+            <th scope="col">Date de seance </th>
+            <th scope="col">Horaire</th>
+            <th scope="col">Matiere</th>
+            <th scope="col">Salle</th>
+            <th scope="col"></th>
+            <th scope="col"></th>
+            <th scope="col"></th>
+          </tr>
+        </thead>
+        <tbody>
+
+          @foreach (var Seance in Model.seances){
+          <tr>
+            <td>@Seance.SeanceTitre</td>
+            <td>@Seance.DateSeance</td>
+            @if(Seance.NbreParjour == "08"){
+                <td>8:00 -- 10:00</td>
+              }
+             @if(Seance.NbreParjour == "10"){
+                <td>10:00 -- 12:00</td>
+              }
+               @if(Seance.NbreParjour == "14"){
+                <td>14:00 -- 16:00</td>
+              }
+               @if(Seance.NbreParjour == "16"){
+                <td>16:00 -- 18:00</td>
+              }
+   
+            @{var id =  Seance.IdSubject;}
+            @foreach (var sub in Model.subjects)
+            {
+              @if(sub.IdSubjet == id){
+                <td>@sub.NomSubjet</td>
+              }
+            }
+            @{var numSa =  Seance.NumSalle; }
+             @foreach (var sa in Model.salles)
+            {
+              @if(sa.NumSalle == numSa){
+                <td>@sa.NumSalle</td>
+              }
+            }
+            <td> 
+              <button type="submit" class="btn btn-danger" onclick="return confirm('Are you sure that u want to delete the Subject ?')"
+              asp-page-handler="delete" asp-route-id=" @Seance.IdSeance" > Delete </button>
+            </td>
+                <td><a asp-page="./EditSeance" asp-route-id=" @Seance.IdSeance" class="btn btn-dark" > EDIT</a>  </td>
+                 <td><a asp-page="./Presence_List" asp-route-id=" @Seance.IdSeance" class="btn btn-success" > Presence</a>  </td>
+          </tr>
+          }
+        </tbody>
+      </table>
+</form>
+</div>

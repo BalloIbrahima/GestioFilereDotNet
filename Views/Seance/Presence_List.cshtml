@@ -1,0 +1,53 @@
+﻿@page
+@model MyApp.Namespace.Presence_ListModel
+@{
+}
+
+<div class="container p-3 my-3 bg-dark text-white">
+    <h1>Liste des presence Par Seance</h1>
+  </div><br/>
+  <br/><br/>
+
+<form method="post">
+  <input type="hidden" asp-for="seance.IdSeance"/>  
+      <table class="table">
+        <thead class="thead-dark">
+          <tr>
+            <th scope="col">Seance Name</th>
+            <th scope="col">Time</th>
+            <th scope="col">Nbr des etudian Present</th>
+            <th scope="col">Absence</th>
+
+          </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var sea in Model.seances) {
+              if(sea.IdSeance == Model.seance.IdSeance){
+         <tr>
+
+                <td>@sea.SeanceTitre</td>
+                <td>@sea.NbreParjour</td>
+                <td>@sea.nbrPre</td>
+                
+            @* @foreach (var std in Model.students)
+            {
+               @foreach (var pre in Model.presences)
+                {
+                  if(pre.IdStudent != std.IdStudent){
+                    <td>@std.FullName  </td>
+                  }
+                }
+            } *@
+         @foreach (var std in Model.absence)
+            { 
+               <td>@std.FullName  </td>   
+            }
+              
+          </tr>
+          }
+          }
+        </tbody>
+      </table>
+</form>
+</div>
