@@ -36,7 +36,7 @@ namespace MyApp.Namespace
             
             var DB_Fil = await _db.Filieres.FindAsync(filiere.IdFiliere);
             DB_Fil.NomFiliere = filiere.NomFiliere;
-            DB_Fil.StudentsNumbre = filiere.StudentsNumbre;
+            DB_Fil.StudentsNombre = filiere.StudentsNombre;
              try
              {
                  await _db.SaveChangesAsync();

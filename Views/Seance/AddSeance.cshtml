@@ -18,15 +18,15 @@
           <form method="post">
           <div class="form-group"><br/>
 
-            <label asp-for="seance.SeanceTitle"  class="control-label"></label><br/>
-            <input asp-for="seance.SeanceTitle" class="form-control"/>
-            <span asp-validation-for="seance.SeanceTitle" class="text-danger"></span><br/><br/>
+            <label asp-for="seance.SeanceTitre"  class="control-label"></label><br/>
+            <input asp-for="seance.SeanceTitre" class="form-control"/>
+            <span asp-validation-for="seance.SeanceTitre" class="text-danger"></span><br/><br/>
 
              <label asp-for="seance.DateSeance"  class="control-label"></label><br/>
              <input asp-for="seance.DateSeance" class="form-control"/>
              <span asp-validation-for="seance.DateSeance" class="text-danger"></span>
 
-             <select asp-for="seance.NumeroDandLejour" class="custom-select">
+             <select asp-for="seance.NbreParjour" class="custom-select">
                     <option value="08">8:00 -- 10:00</option>
                     <option value="10">10:00 -- 12:00</option>
                     <option value="14">14:00 -- 16:00</option>
@@ -36,7 +36,7 @@
             <select asp-for="seance.IdSubject" class="custom-select">
                @foreach (var sub in Model.subjects)
                 {
-                      <option value="@sub.IdSubject">@sub.NomSubject</option>
+                      <option value="@sub.IdSubjet">@sub.NomSubjet</option>
                 }
              </select><br/>
 
