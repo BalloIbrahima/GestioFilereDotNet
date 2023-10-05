@@ -24155,6 +24155,36 @@
       "FilePath": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Home/Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/redirect.cshtml",
+      "TargetPath": "Views\\redirect.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Privacy.cshtml",
+      "TargetPath": "Views\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/termList.cshtml",
+      "TargetPath": "Views\\termList.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Index.cshtml",
+      "TargetPath": "Views\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Error.cshtml",
+      "TargetPath": "Views\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/term.cshtml",
+      "TargetPath": "Views\\term.cshtml",
+      "FileKind": "mvc"
     }
   ]
 }

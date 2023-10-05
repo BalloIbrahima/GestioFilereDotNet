@@ -1,0 +1,709 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/obj/Debug/net7.0/scopedcss/projectbundle/GestionFilere.bundle.scp.css",
+      "PackagePath": "staticwebassets/GestionFilere.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/css copy/clean-blog.css",
+      "PackagePath": "staticwebassets/css copy/clean-blog.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/css copy/clean-blog.min.css",
+      "PackagePath": "staticwebassets/css copy/clean-blog.min.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/css copy/site.css",
+      "PackagePath": "staticwebassets/css copy/site.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/img/about-bg.jpg",
+      "PackagePath": "staticwebassets/img/about-bg.jpg"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/img/contact-bg.jpg",
+      "PackagePath": "staticwebassets/img/contact-bg.jpg"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/img/home-bg.jpg",
+      "PackagePath": "staticwebassets/img/home-bg.jpg"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/img/post-bg.jpg",
+      "PackagePath": "staticwebassets/img/post-bg.jpg"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/img/post-sample-image.jpg",
+      "PackagePath": "staticwebassets/img/post-sample-image.jpg"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/js copy/clean-blog.js",
+      "PackagePath": "staticwebassets/js copy/clean-blog.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/js copy/clean-blog.min.js",
+      "PackagePath": "staticwebassets/js copy/clean-blog.min.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/js copy/contact_me.js",
+      "PackagePath": "staticwebassets/js copy/contact_me.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/js copy/jqBootstrapValidation.js",
+      "PackagePath": "staticwebassets/js copy/jqBootstrapValidation.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/js copy/site.js",
+      "PackagePath": "staticwebassets/js copy/site.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib copy/bootstrap"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib copy/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib copy/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib copy/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib copy/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib copy/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib copy/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib copy/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib copy/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib copy/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib copy/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib copy/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib copy/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib copy/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib copy/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib copy/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib copy/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib copy/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib copy/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib copy/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib copy/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib copy/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib copy/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib copy/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib copy/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib copy/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib copy/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib copy/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib copy/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib copy/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib copy/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib copy/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib copy/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib copy/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/scss/_bootstrap-overrides.scss",
+      "PackagePath": "staticwebassets/scss/_bootstrap-overrides.scss"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/scss/_contact.scss",
+      "PackagePath": "staticwebassets/scss/_contact.scss"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/scss/_footer.scss",
+      "PackagePath": "staticwebassets/scss/_footer.scss"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/scss/_global.scss",
+      "PackagePath": "staticwebassets/scss/_global.scss"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/scss/_masthead.scss",
+      "PackagePath": "staticwebassets/scss/_masthead.scss"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/scss/_mixins.scss",
+      "PackagePath": "staticwebassets/scss/_mixins.scss"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/scss/_navbar.scss",
+      "PackagePath": "staticwebassets/scss/_navbar.scss"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/scss/_post.scss",
+      "PackagePath": "staticwebassets/scss/_post.scss"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/scss/_variables.scss",
+      "PackagePath": "staticwebassets/scss/_variables.scss"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/scss/clean-blog.scss",
+      "PackagePath": "staticwebassets/scss/clean-blog.scss"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/bootstrap/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/bootstrap/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/bootstrap/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/bootstrap/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/bootstrap/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/bootstrap/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/bootstrap/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/bootstrap/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/bootstrap/css/bootstrap.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/bootstrap/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/bootstrap/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/bootstrap/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/bootstrap/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/bootstrap/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/bootstrap/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/bootstrap/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/bootstrap/js/bootstrap.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/bootstrap/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/bootstrap/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/bootstrap/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/css/all.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/all.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/css/all.min.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/all.min.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/css/brands.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/brands.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/css/brands.min.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/brands.min.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/css/fontawesome.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/fontawesome.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/css/fontawesome.min.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/fontawesome.min.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/css/regular.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/regular.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/css/regular.min.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/regular.min.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/css/solid.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/solid.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/css/solid.min.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/solid.min.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/css/svg-with-js.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/svg-with-js.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/css/svg-with-js.min.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/svg-with-js.min.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/css/v4-shims.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/v4-shims.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/css/v4-shims.min.css",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/css/v4-shims.min.css"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/webfonts/fa-brands-400.eot",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/webfonts/fa-brands-400.eot"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/webfonts/fa-brands-400.svg",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/webfonts/fa-brands-400.svg"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/webfonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/webfonts/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/webfonts/fa-brands-400.woff",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/webfonts/fa-brands-400.woff"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/webfonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/webfonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/webfonts/fa-regular-400.eot",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/webfonts/fa-regular-400.eot"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/webfonts/fa-regular-400.svg",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/webfonts/fa-regular-400.svg"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/webfonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/webfonts/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/webfonts/fa-regular-400.woff",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/webfonts/fa-regular-400.woff"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/webfonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/webfonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/webfonts/fa-solid-900.eot",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/webfonts/fa-solid-900.eot"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/webfonts/fa-solid-900.svg",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/webfonts/fa-solid-900.svg"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/webfonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/webfonts/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/webfonts/fa-solid-900.woff",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/webfonts/fa-solid-900.woff"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/fontawesome-free/webfonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/vendor/fontawesome-free/webfonts/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/jquery/jquery.js",
+      "PackagePath": "staticwebassets/vendor/jquery/jquery.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/jquery/jquery.min.js",
+      "PackagePath": "staticwebassets/vendor/jquery/jquery.min.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/jquery/jquery.min.map",
+      "PackagePath": "staticwebassets/vendor/jquery/jquery.min.map"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/jquery/jquery.slim.js",
+      "PackagePath": "staticwebassets/vendor/jquery/jquery.slim.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/jquery/jquery.slim.min.js",
+      "PackagePath": "staticwebassets/vendor/jquery/jquery.slim.min.js"
+    },
+    {
+      "Id": "/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/wwwroot/vendor/jquery/jquery.slim.min.map",
+      "PackagePath": "staticwebassets/vendor/jquery/jquery.slim.min.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.GestionFilere.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.GestionFilere.props",
+      "PackagePath": "build\\GestionFilere.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.GestionFilere.props",
+      "PackagePath": "buildMultiTargeting\\GestionFilere.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.GestionFilere.props",
+      "PackagePath": "buildTransitive\\GestionFilere.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

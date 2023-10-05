@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/owner/Desktop/TechnoLab/DotNet/GestionFilere
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Filiere/AddFiliere.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlsaWVyZS9BZGRGaWxpZXJlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -36,6 +40,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Professor/EditProf.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZmVzc29yL0VkaXRQcm9mLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -46,6 +58,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Professor/Profseance.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZmVzc29yL1Byb2ZzZWFuY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/redirect.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvcmVkaXJlY3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Seance/AddSeance.cshtml]
@@ -106,6 +122,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/Subject/SubjectsList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3ViamVjdC9TdWJqZWN0c0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/term.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvdGVybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/termList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvdGVybUxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/owner/Desktop/TechnoLab/DotNet/GestionFilere/Views/_ViewImports.cshtml]

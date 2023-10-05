@@ -26,8 +26,8 @@
 
           @foreach (var Subject in Model.subjects){
           <tr>
-            <th>@Subject.IdSubject</th>
-            <td>@Subject.NomSubject</td>
+            <th>@Subject.IdSubjet</th>
+            <td>@Subject.NomSubjet</td>
             @{var id =  Subject.IdFiliere;}
             @foreach (var fl in Model.filieres)
             {
@@ -44,9 +44,9 @@
             }
             <td> 
               <button type="submit" class="btn btn-danger" onclick="return confirm('Are you sure that u want to delete the Subject ?')"
-              asp-page-handler="delete" asp-route-id="@Subject.IdSubject" > Delete </button>
+              asp-page-handler="delete" asp-route-id="@Subject.IdSubjet" > Delete </button>
             </td>
-                <td><a asp-page="./EditSubject" asp-route-id="@Subject.IdSubject" class="btn btn-dark" > EDIT</a>  </td>
+                <td><a asp-page="./EditSubject" asp-route-id="@Subject.IdSubjet" class="btn btn-dark" > EDIT</a>  </td>
           </tr>
           }
         </tbody>

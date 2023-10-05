@@ -1,0 +1,52 @@
+﻿@page
+@model MyApp.Namespace.termListModel
+@{
+}
+
+<div class="container p-3 my-3 bg-dark text-white">
+    <h1>Liste des presence</h1>
+  </div><br/>
+      <a class="btn btn-primary" href="/term" role="button">Ajouter</a>
+  <br/><br/>
+
+<form method="post">
+      <table class="table">
+        <thead class="thead-dark">
+          <tr>
+            <th scope="col">Num ° ID</th>
+            <th scope="col">Time</th>
+            <th scope="col">Seance</th>
+            <th scope="col">Etudiant</th>
+            <th scope="col"></th>
+            <th scope="col"></th>
+          </tr>
+        </thead>
+        <tbody>
+
+          @foreach (var pre in Model.presences){
+          <tr>
+            <th>@pre.IdPresence</th>
+            <td>@pre.Time</td>
+            @foreach (var sea in Model.seances)
+            {
+              @if(sea.IdSeance == pre.IdSeance){
+                <td>@sea.SeanceTitre</td>
+              }
+            }
+            @foreach (var etu in Model.students)
+            {
+              @if(etu.IdEtudiant == pre.IdStudent){
+                <td>@etu.FullName</td>
+              }
+            }
+            <td> 
+              <button type="submit" class="btn btn-danger" onclick="return confirm('Are you sure that u want to delete the Subject ?')"
+              asp-page-handler="delete" asp-route-id="@pre.IdPresence" > Delete </button>
+            </td>
+                <td><a asp-page="#" asp-route-id="@pre.IdPresence" class="btn btn-dark" > EDIT</a>  </td>
+          </tr>
+          }
+        </tbody>
+      </table>
+</form>
+</div>

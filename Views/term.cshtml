@@ -1,0 +1,66 @@
+﻿@page
+@model MyApp.Namespace.termModel
+@{
+    Layout = "_Layout";
+}
+<div class="nav-scroller bg-white box-shadow">
+      <nav class="nav nav-underline">
+        <a class="nav-link" href="/termList">List</a>
+      </nav>
+</div>
+<div class="container p-3 my-3 bg-dark text-white">
+    <h1>Marquee La présense</h1>
+  </div>
+  <p>La date d'aujourd'hui : @DateTime.Now.ToString("yyyy-MM-dd")</p>
+  <p>L'heure : @DateTime.Now.ToString("HH:mm") <b>Vous avez une heure pour marqué la présense</b></p>
+  
+  <div class="container">
+    <div class="row">
+        <div class="col-6 col-md-4">
+
+                <form method="post">
+                    <div class="form-group">
+                        <br />
+                        <input type="text" asp-for="presence.Time" readonly  value="@DateTime.Now.ToString("HH:mm")"/>
+                        <select asp-for="presence.IdSeance" class="custom-select">
+                            @*@foreach (var sea in Model.seances)
+        {
+            <option value="@sea.IdSeance">@sea.SeanceTitle</option>
+        }*@
+                            @for (int i = 0; i < Model.seances.Count(); i++)
+                            {
+                            <option value="@Model.seances.ElementAt(i).IdSeance">@Model.seances.ElementAt(i).SeanceTitre</option>
+                            }
+                        </select><br />
+
+                                 <select asp-for="presence.NumSalle" class="custom-select">
+                                     @*@foreach (var salle in Model.salles)
+        {
+            <option value="@salle.NumSalle">@salle.NumSalle</option>
+        }*@
+                                     @for (int i = 0; i < Model.salles.Count(); i++)
+                                     {
+                                     <option value="@Model.salles.ElementAt(i).NumSalle">@Model.salles.ElementAt(i).NumSalle</option>
+                                     }
+                                 </select><br />
+
+
+                                          <select asp-for="presence.IdStudent" class="custom-select">
+                                              @*@foreach (var st in Model.students)
+        {
+            <option value="@st.IdStudent">@st.FullName</option>
+        }*@
+                                              @for (int i = 0; i < Model.students.Count(); i++)
+                                              {
+                                              <option value="@Model.students.ElementAt(i).IdEtudiant">@Model.students.ElementAt(i).FullName</option>
+                                              }
+                                          </select><br />
+
+                    </div>
+                    <br />
+                    <tr></tr><tr></tr><tr></tr><input class="btn btn-success" type="Submit" value="Ajouter" />
+
+                </form>
+            </div>
+    </div>
+  </div>

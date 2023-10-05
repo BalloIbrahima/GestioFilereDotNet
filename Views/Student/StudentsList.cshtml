@@ -25,7 +25,7 @@
 
           @foreach (var Student in Model.Students){
           <tr>
-            <th>@Student.IdStudent</th>
+            <th>@Student.IdEtudiant</th>
             <td>@Student.FullName</td>
             @foreach (var fl in Model.filieres)
             {
@@ -35,9 +35,9 @@
             }
             <td> 
               <button type="submit" class="btn btn-danger" onclick="return confirm('Are you sure that u want to delete that students')"
-              asp-page-handler="delete" asp-route-id="@Student.IdStudent" > Delete </button>
+              asp-page-handler="delete" asp-route-id="@Student.IdEtudiant" > Delete </button>
             </td>
-                <td><a asp-page="./EditStudent" asp-route-id="@Student.IdStudent" class="btn btn-dark" > EDIT</a>  </td>
+                <td><a asp-page="./EditStudent" asp-route-id="@Student.IdEtudiant" class="btn btn-dark" > EDIT</a>  </td>
           </tr>
           }
         </tbody>
